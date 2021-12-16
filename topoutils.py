@@ -6,9 +6,13 @@ def azimuth_by_cood(x1,y1,x2,y2):
     pass
 
 
-def gms2dec(angulo_gms):
+def gms2dec(angulo_grado):
     pass
 
 
-def dec2gms(angulo_dec):
+def dec2gms(angulo_decimales):
+    pass
+
+
+def proyecciones(acimut, distancia):
     pass
